@@ -1,0 +1,194 @@
+[
+    {
+        "group": "salary",
+        "height": 89818.2875,
+        "rank_bucket": "b.51-100",
+        "nation": "Australia"
+    },
+    {
+        "group": "investment",
+        "height": 89858,
+        "rank_bucket": "b.51-100",
+        "nation": "Australia"
+    },
+    {
+        "group": "salary",
+        "height": 78290.2612455389,
+        "rank_bucket": "b.51-100",
+        "nation": "Canada"
+    },
+    {
+        "group": "investment",
+        "height": 45724.37012069856,
+        "rank_bucket": "b.51-100",
+        "nation": "Canada"
+    },
+    {
+        "group": "salary",
+        "height": 95798.06291428795,
+        "rank_bucket": "b.51-100",
+        "nation": "Germany"
+    },
+    {
+        "group": "investment",
+        "height": 18947.052673563452,
+        "rank_bucket": "b.51-100",
+        "nation": "Germany"
+    },
+    {
+        "group": "salary",
+        "height": 119543.23284879501,
+        "rank_bucket": "b.51-100",
+        "nation": "United States"
+    },
+    {
+        "group": "investment",
+        "height": 125614.02756,
+        "rank_bucket": "b.51-100",
+        "nation": "United States"
+    },
+    {
+        "group": "salary",
+        "height": 90442.5775,
+        "rank_bucket": "a.1-50",
+        "nation": "Australia"
+    },
+    {
+        "group": "investment",
+        "height": 101223.00000000001,
+        "rank_bucket": "a.1-50",
+        "nation": "Australia"
+    },
+    {
+        "group": "salary",
+        "height": 78834.36751068132,
+        "rank_bucket": "a.1-50",
+        "nation": "Canada"
+    },
+    {
+        "group": "investment",
+        "height": 105297.9484991087,
+        "rank_bucket": "a.1-50",
+        "nation": "Canada"
+    },
+    {
+        "group": "salary",
+        "height": 96464.56005215517,
+        "rank_bucket": "a.1-50",
+        "nation": "Germany"
+    },
+    {
+        "group": "investment",
+        "height": 25265.447492172378,
+        "rank_bucket": "a.1-50",
+        "nation": "Germany"
+    },
+    {
+        "group": "salary",
+        "height": 120374.29968469501,
+        "rank_bucket": "a.1-50",
+        "nation": "United States"
+    },
+    {
+        "group": "investment",
+        "height": 130549.39881200001,
+        "rank_bucket": "a.1-50",
+        "nation": "United States"
+    },
+    {
+        "group": "salary",
+        "height": 88888.55500000001,
+        "rank_bucket": "c.101-250",
+        "nation": "Australia"
+    },
+    {
+        "group": "investment",
+        "height": 85113,
+        "rank_bucket": "c.101-250",
+        "nation": "Australia"
+    },
+    {
+        "group": "salary",
+        "height": 77479.89021234808,
+        "rank_bucket": "c.101-250",
+        "nation": "Canada"
+    },
+    {
+        "group": "investment",
+        "height": 43670.070895804674,
+        "rank_bucket": "c.101-250",
+        "nation": "Canada"
+    },
+    {
+        "group": "salary",
+        "height": 94806.10338900427,
+        "rank_bucket": "c.101-250",
+        "nation": "Germany"
+    },
+    {
+        "group": "investment",
+        "height": 15307.26693249607,
+        "rank_bucket": "c.101-250",
+        "nation": "Germany"
+    },
+    {
+        "group": "salary",
+        "height": 118305.22983807501,
+        "rank_bucket": "c.101-250",
+        "nation": "United States"
+    },
+    {
+        "group": "investment",
+        "height": 117643.80703600001,
+        "rank_bucket": "c.101-250",
+        "nation": "United States"
+    },
+    {
+        "group": "salary",
+        "height": 86625.02500000001,
+        "rank_bucket": "d.251-500",
+        "nation": "Australia"
+    },
+    {
+        "group": "investment",
+        "height": 83330,
+        "rank_bucket": "d.251-500",
+        "nation": "Australia"
+    },
+    {
+        "group": "salary",
+        "height": 75506.58412503278,
+        "rank_bucket": "d.251-500",
+        "nation": "Canada"
+    },
+    {
+        "group": "investment",
+        "height": 45142.92320257718,
+        "rank_bucket": "d.251-500",
+        "nation": "Canada"
+    },
+    {
+        "group": "salary",
+        "height": 92392.38711869078,
+        "rank_bucket": "d.251-500",
+        "nation": "Germany"
+    },
+    {
+        "group": "investment",
+        "height": 17920.82175193096,
+        "rank_bucket": "d.251-500",
+        "nation": "Germany"
+    },
+    {
+        "group": "salary",
+        "height": 115293.328994865,
+        "rank_bucket": "d.251-500",
+        "nation": "United States"
+    },
+    {
+        "group": "investment",
+        "height": 96501.62236400001,
+        "rank_bucket": "d.251-500",
+        "nation": "United States"
+    }
+]
